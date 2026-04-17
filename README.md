@@ -1,6 +1,19 @@
-## Hi there 👋
-# Muhammad Waqas — iOS dev in training
-What: Building sellable iOS apps with Swift & SwiftUI.
-Roadmap (Aug 22 → Oct 31, 2025): Swift basics → SwiftUI → 3 mini-apps → Freelancing.
-Contact: waqas151472@gmail.com
+# Hi, I'm Waqas 👋
 
+Flutter Developer 🚀  
+I build mobile apps using Flutter & Firebase.
+
+## 🔧 Skills
+- Flutter (UI, Navigation, State)
+- API Integration
+- Firebase (basic)
+- Git & GitHub
+
+## 📱 Projects
+- Weather App (API-based)
+- Todo App (CRUD)
+- More coming...
+
+## 📫 Contact
+- LinkedIn: (add later)
+- Email: your-email@gmail.com
